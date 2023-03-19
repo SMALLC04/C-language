@@ -5,3 +5,4 @@
 * [第三章---判断与循环](https://github.com/SMALLC04/C-/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E2%80%94%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 * [第四章---函数](https://github.com/SMALLC04/C-/blob/main/%E7%AC%AC%E4%BA%94%E7%AB%A0--%E5%87%BD%E6%95%B0.md)
 * [第五章---数组](https://github.com/SMALLC04/C-/blob/main/%E7%AC%AC%E5%85%AD%E7%AB%A0---%E6%95%B0%E7%BB%84.md)
+* [第六章---指针](https://github.com/SMALLC04/C-language/blob/main/%E7%AC%AC%E4%B8%83%E7%AB%A0---%E6%8C%87%E9%92%88.md)
